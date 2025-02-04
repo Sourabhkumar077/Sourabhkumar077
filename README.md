@@ -26,7 +26,7 @@
 👋 Hi there! I'm a pre-final year Computer Science Engineering student with a passion for frontend development and a knack for creating user-friendly designs. My journey in tech is driven by a love for problem-solving and continuous learning, especially in data structures and algorithms (DSA).
 
 🌟 **Skills & Interests**:
-- **Frontend Development**: Crafting intuitive and engaging user interfaces.
+- **Full-Stack**: Crafting intuitive and engaging user interfaces.
 - **DSA**: Enhancing my problem-solving skills through rigorous practice.
 - **Communication & Presentation**: Delivering projects with clarity and impact.
 
@@ -41,8 +41,6 @@ I thrive on building projects that not only work efficiently but also look great
 Let's connect and build something amazing together!
 
 ---
-<br>
-<br>
 <h2 align="center">Leetcode Info<h2>  
 <p align="center">
   
