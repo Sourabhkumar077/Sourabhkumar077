@@ -41,28 +41,24 @@ I thrive on building projects that not only work efficiently but also look great
 Let's connect and build something amazing together!
 
 ---
+<br>
+<br>
+<h2 align="center">Leetcode Info<h2>  
+<p align="center">
+  
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/_sourabhhh_?theme=dark&font=Nunito&ext=heatmap" />  
+</p>
 
 ## ⭐ Summarized My All Achievements 🎉
 
 | 🎯 My Prepration Challenge's 🎯 | 🥇 Other Achievement 🥇 |
 |------------------------------------|----------------------------------------|
-| 💥 75DaysHardPlacementChallenge  | ⭐ Thousand's of Students Guide for Placements and DSA and CP and Development | 
-| 💥 1000DaysOfCode+ on @LeetCode  | ⭐ Top performer in College " Rank 1 " [Acadiemic & Coding ] |
-| 💥 365DaysOfCode+ on @InterviewBit |  ⭐ DSA & DEV Highe Rated Mentor on @TopMate ( Included in Top 1% ) |
-| 💥 700DaysOfCode+ on @CodeStudio | ⭐ 53K+ Followers on LinkedIn |
-| 💥 800DaysOfCode+ on @GeeksForGeeks | ⭐ 10M+ Views on LinkedIn |
+| 💥 75DaysHardPlacementChallenge  | ⭐ 50+ Students Guide for Placements and DSA and CP and Development | 
+| 💥 100DaysOfCode+ on @LeetCode  | ⭐ Top performer in College " Rank 1 " [Acadiemic & Coding ] |
+| 💥 30DaysOfCode+ on @InterviewBit |  ⭐ DSA & DEV Highe Rated Mentor  |
+| 💥 70DaysOfCode+ on @CodeStudio | ⭐ 2.5K+ Followers on LinkedIn |
+| 💥 100DaysOfCode+ on @GeeksForGeeks | ⭐ 200k+ Views on LinkedIn |
 
-<h2 align="center">Leetcode Info<h2>  
-<p align="center">
-  <a href="https://leetcode.com/_sourabhhh_/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/_sourabhhh_/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/_sourabhhh_/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/_sourabhhh_/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
-</p>
-<p align="center">
-  
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/_sourabhhh_?theme=dark&font=Nunito&ext=heatmap" />  
-</p>
 
 
 ---
