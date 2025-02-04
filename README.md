@@ -52,13 +52,18 @@ Let's connect and build something amazing together!
 | 💥 700DaysOfCode+ on @CodeStudio | ⭐ 53K+ Followers on LinkedIn |
 | 💥 800DaysOfCode+ on @GeeksForGeeks | ⭐ 10M+ Views on LinkedIn |
 
-</td><td valign="top" width="50%">
+<h2 align="center">Leetcode Info<h2>  
+<p align="center">
+  <a href="https://leetcode.com/_sourabhhh_/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/_sourabhhh_/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/_sourabhhh_/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/_sourabhhh_/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
+</p>
+<p align="center">
+  
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/_sourabhhh_?theme=dark&font=Nunito&ext=heatmap" />  
+</p>
 
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Sourabhkumar077&layout=compact&hide_border=true" alt="WakaTime Graph" style="width: 100%" />
-  </div>  
-
-</td></tr></table>
 
 ---
 ## 💻Use To Code
@@ -78,7 +83,7 @@ Let's connect and build something amazing together!
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Web Scraping](https://img.shields.io/badge/Web%20Scraping-4CAF50?style=for-the-badge&logo=googlechrome&logoCo
+![Web Scraping](https://img.shields.io/badge/Web%20Scraping-4CAF50?style=for-the-badge&logo=googlechrome&logoCo)
 ![Server & Networking](https://img.shields.io/badge/Server%20&%20Networking-0078D7?style=for-the-badge&logo=windowsserver&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -109,3 +114,9 @@ Let's connect and build something amazing together!
 
 <br/>
 <br/> 
+
+<br>
+## 📈 Graph
+<p align="center">
+   <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
+</p>
