@@ -78,16 +78,11 @@ Let's connect and build something amazing together!
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Web Scraping](https://img.shields.io/badge/Web%20Scraping-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white)
-![ML Algorithms](https://img.shields.io/badge/ML%20Algorithms-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![LLM Models](https://img.shields.io/badge/LLM%20Models-8E44AD?style=for-the-badge&logo=openai&logoColor=white)
+![Web Scraping](https://img.shields.io/badge/Web%20Scraping-4CAF50?style=for-the-badge&logo=googlechrome&logoCo
 ![Server & Networking](https://img.shields.io/badge/Server%20&%20Networking-0078D7?style=for-the-badge&logo=windowsserver&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![API](https://img.shields.io/badge/API-008000?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -98,21 +93,17 @@ Let's connect and build something amazing together!
 ![Visual Studio Code Professional](https://img.shields.io/badge/VS_Code_Professional-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 
 ---
 
 ## 📊 My Github Stats
 
    <br/>
-<a href="https://github.com/PrinceSinghhub/github-readme-stats"><img alt="Prince Singh Github Stats" src="https://github-readme-stats.vercel.app/api?username=PrinceSinghhub&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/PrinceSinghhub/github-readme-stats"><img alt="Prince Singh Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrinceSinghhub&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/Sourabhkumar077/github-readme-stats"><img alt=" Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sourabhkumar077&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Sourabhkumar077/github-readme-stats"><img alt="Prince Singh Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sourabhkumar077&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
