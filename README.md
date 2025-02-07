@@ -26,7 +26,7 @@
 👋 Hi there! I'm a pre-final year Computer Science Engineering student with a passion for frontend development and a knack for creating user-friendly designs. My journey in tech is driven by a love for problem-solving and continuous learning, especially in data structures and algorithms (DSA).
 
 🌟 **Skills & Interests**:
-- **Full-Stack**: Crafting intuitive and engaging user interfaces.
+- **Full-Stack Development**: Crafting intuitive and engaging user interfaces.
 - **DSA**: Enhancing my problem-solving skills through rigorous practice.
 - **Communication & Presentation**: Delivering projects with clarity and impact.
 
