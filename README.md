@@ -98,16 +98,24 @@ Let's connect and build something amazing together!
 
 ---
 
-## 📊 My Github Stats
-
-   <br/>
-<a href="https://github.com/Sourabhkumar077/github-readme-stats"><img alt=" Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sourabhkumar077&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Sourabhkumar077/github-readme-stats"><img alt="Prince Singh Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sourabhkumar077&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+## Github stats:
+<div align="center">
+  <img src="http://img.shields.io/badge/Code%20Time-1%2C200%20hrs%2045%20mins-blue" alt="Code Time" />
+  <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-24.7%20million%20lines%20of%20code-blue" alt="Lines of Code" />
+</div>
+<div align="center">
+  <br>
+<a href="https://github.com/Sourabhkumar077/github-readme-stats"><img alt="Sourabh Github Stats" src="https://github-readme-stats.vercel.app/api?username=Sourabhkumar077 &show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Sourabhkumar077/github-readme-stats"><img alt=" Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sourabhkumar077 &langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<a href="https://github.com/Sourabhkumar077">
+  <img alt="Sourabh's activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Sourabhkumar077&theme=react-dark" />
+</a>
+</div>
 
+<br>
 <br/>
-<br/> 
+
 
 <br>
 ## 📈 Graph
