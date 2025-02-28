@@ -21,24 +21,35 @@
 
 ---
 
-### Glad to see you here!  
+🚀 Glad to See You Here!<br><hr>
+👋 Hey there! I'm a pre-final year Computer Science Engineering student passionate about frontend development and crafting seamless, user-friendly experiences. My journey in tech revolves around problem-solving, creativity, and continuous learning, especially in data structures and algorithms (DSA).<br>
 
-👋 Hi there! I'm a pre-final year Computer Science Engineering student with a passion for frontend development and a knack for creating user-friendly designs. My journey in tech is driven by a love for problem-solving and continuous learning, especially in data structures and algorithms (DSA).
+🌟 About Me <br>
+🔹 Full-Stack Developer | Bringing ideas to life with code. <br>
+🔹 DSA Enthusiast | Strengthening problem-solving one challenge at a time.<br>
+🔹 Strong Communicator | Presenting ideas with clarity and impact.<br>
 
-🌟 **Skills & Interests**:
-- **Full-Stack Development**: Crafting intuitive and engaging user interfaces.
-- **DSA**: Enhancing my problem-solving skills through rigorous practice.
-- **Communication & Presentation**: Delivering projects with clarity and impact.
+I believe in writing clean, efficient code and designing interfaces that are both functional and aesthetically pleasing. My projects reflect my dedication to detail and my passion for innovation.
+<br>
 
-💼 **Projects**:
-I thrive on building projects that not only work efficiently but also look great. Whether it's a solo endeavor or a collaborative effort, I put in 100% effort into development and 200% into presentation.
+💻 Featured Projects <br>
+I thrive on building real-world projects that solve problems and push creativity. Whether it's a solo challenge or a team collaboration, I give 100% to development and 200% to presentation to make ideas stand out.
+<br>
 
-📈 **Goals**:
-- To keep expanding my technical skills and knowledge.
-- To contribute to open-source projects and collaborate with the community.
-- To create a portfolio that showcases my best work and growth as a developer.
+🔹 SevaSathi - AI-Powered Citizen Services Platform
+📌 A one-stop solution for government services, integrated with AI for ease of access. <br>
+🚀 Tech Stack: Next.js, FastAPI, MongoDB, Blockchain, AI/ML <br>
+🔹 Automates form filling and reduces errors in government applications.<br>
+🔹 Voice AI for easy navigation and multilingual support.<br>
+🔹 Blockchain integration for secure document verification.<br>
+<br>
 
-Let's connect and build something amazing together!
+🔹 Mentor Connect - AI-Driven Mentorship Platform <br>
+📌 An intelligent mentor-mentee matching system with scheduling and video call features. <br>
+🚀 Tech Stack: React, Node.js, Express, MongoDB, WebRTC <br>
+🔹 Smart mentor-mentee pairing based on skills and interests. <br>
+🔹 Integrated scheduling (like Calendly) and seamless video calls. <br>
+🔹 VR mock interviews and an extensive resource library. <br>
 
 ---
 <h2 align="center">Leetcode Info<h2>  
