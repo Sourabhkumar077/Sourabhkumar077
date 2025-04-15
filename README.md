@@ -32,24 +32,6 @@
 I believe in writing clean, efficient code and designing interfaces that are both functional and aesthetically pleasing. My projects reflect my dedication to detail and my passion for innovation.
 <br>
 
-💻 Featured Projects <br>
-I thrive on building real-world projects that solve problems and push creativity. Whether it's a solo challenge or a team collaboration, I give 100% to development and 200% to presentation to make ideas stand out.
-<br>
-
-🔹 SevaSathi - AI-Powered Citizen Services Platform
-📌 A one-stop solution for government services, integrated with AI for ease of access. <br>
-🚀 Tech Stack: Next.js, FastAPI, MongoDB, Blockchain, AI/ML <br>
-🔹 Automates form filling and reduces errors in government applications.<br>
-🔹 Voice AI for easy navigation and multilingual support.<br>
-🔹 Blockchain integration for secure document verification.<br>
-<br>
-
-🔹 Mentor Connect - AI-Driven Mentorship Platform <br>
-📌 An intelligent mentor-mentee matching system with scheduling and video call features. <br>
-🚀 Tech Stack: React, Node.js, Express, MongoDB, WebRTC <br>
-🔹 Smart mentor-mentee pairing based on skills and interests. <br>
-🔹 Integrated scheduling (like Calendly) and seamless video calls. <br>
-🔹 VR mock interviews and an extensive resource library. <br>
 
 ---
 <h2 align="center">Leetcode Info<h2>  
